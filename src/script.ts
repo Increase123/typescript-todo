@@ -1,1 +1,1 @@
-console.log("Hi increase");
+console.log("Hi");
